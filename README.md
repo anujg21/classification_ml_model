@@ -26,3 +26,6 @@ It comprises of many steps but remember to transform the data using the techique
 * Standardization scales the data to have a mean of 0 and a standard deviation of 1. This is done by subtracting the mean of the feature and dividing it by the standard deviation of the feature.
 * Both normalization and standardization are used to bring all the features to the same scale. This is important as KNN, and Logistic Regression models are sensitive to the scale of the features and can lead to incorrect predictions if features are on a different scale.
 You can use the StandardScaler class from scikit-learn's preprocessing module to standardize your data. For normalization, you can use the MinMaxScaler class from the same module.
+
+### Result 
+Consider reviewing Problem 10: Model Comparison for the results. [Juypter Notebook](https://github.com/anujg21/classification_ml_model/blob/main/classification_comparison.ipynb)
