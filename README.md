@@ -18,7 +18,7 @@ The CRISP-DM method is a structured approach to data analysis and can be applied
 * Deployment: Use the best-performing classifier to make predictions on new, unseen data and put the model into production.
 
 ### Data
-The dataset you will use comes from the [UCI Machine Learning repository](https://student.emeritus.org/courses/5965/assignments/243751?module_item_id=1425052#:~:text=UCI%20Machine%20Learning,an%20external%20site.). The data is from a Portuguese banking institution and is a collection of the results of multiple marketing campaigns. You can make use of for more information on the data and features.
+The dataset you will use comes from the [UCI Machine Learning repository](https://student.emeritus.org/courses/5965/assignments/243751?module_item_id=1425052#:~:text=UCI%20Machine%20Learning,an%20external%20site.). The data is from a Portuguese banking institution and is a collection of the results of multiple marketing campaigns. You can make use of CRISP-DM-BANK.pdf for more information on the data and features.
 
 #### Data Preparation 
 It comprises of many steps but remember to transform the data using the techiques in hand. 
